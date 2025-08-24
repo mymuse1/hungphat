@@ -154,7 +154,7 @@ html {
 
 #slider {
     padding-top: 540px;
-    background: url(./assets/img/slider1.svg) top center / cover no-repeat;
+    background: url(../assets/img/slider1.svg) top center / cover no-repeat;
 }
 
 /* Product */
