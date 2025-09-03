@@ -153,7 +153,7 @@ html {
 }
 
 #slider {
-    padding-top: 540px;
+    padding-top: 40%;
     background: url('../img/slider1.svg') top center / cover no-repeat;
 }
 
